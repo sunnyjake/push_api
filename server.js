@@ -6,3 +6,6 @@ app.use("/", function(request, response) {
     console.log("new data");
     alert("alert");
 });
+app.use("/a", function(request, response){
+    
+});
