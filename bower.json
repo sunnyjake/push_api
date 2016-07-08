@@ -8,6 +8,13 @@
   "license": "ISC",
   "homepage": "https://github.com/sunnyjake/push_api",
   "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
   "dependencies": {
     "bootstrap": "^3.3.6"
   }
