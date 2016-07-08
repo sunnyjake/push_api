@@ -4,4 +4,5 @@ app.use("/", function(request, response) {
     console.log("Hey");
     console.log("new info");
     console.log("new data");
+    alert("alert");
 });
